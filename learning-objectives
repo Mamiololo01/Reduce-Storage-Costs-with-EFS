@@ -1,0 +1,14 @@
+Create an EFS File System
+
+Create an EFS file system called SharedWeb that we will attach to our EC2 instances.
+
+Mount the EFS File System and Test It
+
+Create the directory /efs.
+Attach the EFS file system to our instance, and copy our existing data to it from /data.
+Mark Complete
+
+Remove Old Data
+
+Unmount the /data partition and delete the volume in the EC2 console.
+Run Progress Check
